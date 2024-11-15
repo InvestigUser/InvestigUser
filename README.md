@@ -1,6 +1,7 @@
 InvestigUser is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. It allows users to obtain valuable information about users on the most popular social networks and messaging apps, including Twitter, WhatsApp, Facebook, Instagram, Telegram, Snapchat and TikTok, all within a single application. This is achieved transparently for the platforms and completely legally.
 
-![Capture3](https://github.com/user-attachments/assets/6b4c57fe-1cc1-4250-a108-996ffef14f2b)
+![Capture d’écran 2024-11-15 155542](https://github.com/user-attachments/assets/62112ae1-ab99-4f34-87a6-454f7c62b08d)
+
 
 With InvestigUser, you can easily retrieve data such as user Login/ID, profile photos, number of followers and followings, as well as friends lists and much more in one click, directly from the app. This application stands out for its ability to extract information quickly and discreetly, in an “All In One” application, thus offering you a reliable and efficient tool for your online investigations.
 
