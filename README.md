@@ -1,11 +1,11 @@
-**InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. This all-in-one tool enables users to obtain valuable information about individuals on the most popular social networks and messaging apps, including **Twitter, WhatsApp, Facebook, Instagram, Telegram, Snapchat, and TikTok—all** within a single application. InvestigUser operates transparently for platforms and ensures complete legality.
+**InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. This all-in-one tool enables users to obtain valuable information about individuals on the most popular social networks and messaging apps, including **Twitter, WhatsApp, Facebook, Instagram, Telegram, Snapchat, and TikTok**—all within a single application. InvestigUser operates transparently for platforms and ensures complete legality.
 
 ![Capture d’écran 2024-11-15 155542](https://github.com/user-attachments/assets/62112ae1-ab99-4f34-87a6-454f7c62b08d)
 
 
 
 
-With **InvestigUser**, you can effortlessly retrieve data such as user login/ID, profile photos, number of followers and followings, friends lists, and much more with just one click. Now featuring **direct multiplatform username and email searches**, InvestigUser lets you explore and analyze data instantly, without intermediaries, all from within the application. It stands out for its ability to extract information quickly and discreetly, offering you a reliable and efficient tool for your online investigations.
+With **InvestigUser**, you can effortlessly retrieve data such as **user login/ID, profile photos, number of followers and followings, friends lists, and much more ** with just one click. Now featuring **direct multiplatform username and email searches**, InvestigUser lets you explore and analyze data instantly, without intermediaries, all from within the application. Additionally, **account scans using phone numbers for Telegram and WhatsApp** further expand your investigative capabilities. **InvestigUser** stands out for its ability to extract information quickly and discreetly, offering you a reliable and efficient tool for your online investigations.
 
 ![Capture d'écran 2024-11-29 184218](https://github.com/user-attachments/assets/e2acc11a-d69b-4833-806a-4a0c1678a478)
 
