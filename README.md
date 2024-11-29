@@ -17,7 +17,7 @@ With **InvestigUser**, you can effortlessly retrieve data such as **user login/I
 
 **Key Features:
 **- Multiplatform Support: Analyze accounts across Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, and more.
-- Direct Username & Email Searches: Perform multiplatform searches instantly and directly, bypassing the need for external tools or intermediaries.
+Direct Username, Email, and Phone Number Searches: Perform multiplatform searches instantly and directly, including account scans via phone numbers for Telegram and WhatsApp.
 - Data Retrieval: Access user Login/ID, profile photos, followers, followings, friends lists, and more in seconds.
 - Automated Screenshots: Take automated screenshots of profiles and posts (e.g., on Twitter and Facebook) for documentation and analysis.
 - Total Discretion: Operates independently of APIs, ensuring opaque and undetectable data collection for platforms.
