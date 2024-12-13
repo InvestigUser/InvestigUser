@@ -6,6 +6,8 @@
  
 With **InvestigUser**, you can easily retrieve, in just one click, data such as user Login/ID, profile photos, the number of followers and followings, as well as friends lists, directly from the application. This application also stands out for its advanced features, including **direct and instant account searches by username or email address across multiple platforms**. Furthermore, it now enables precise scans using **phone numbers**, particularly for **Telegram and WhatsApp**, expanding your investigative capabilities. All of this is offered in a fast and discreet "All-In-One" application.
 
+![tg-768x335](https://github.com/user-attachments/assets/4c45c546-b0a0-4d8a-a25c-618467557b57)
+
 
 ![Capture-decran-2024-12-12-120121-1024x475](https://github.com/user-attachments/assets/31368aba-6d05-4bd5-82c3-3a66f79300c4)
 
