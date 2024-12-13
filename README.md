@@ -1,11 +1,13 @@
-**InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. This all-in-one tool enables users to obtain valuable information about individuals on the most popular social networks and messaging apps, including **Twitter, WhatsApp, Facebook, Instagram, Telegram, Snapchat, and TikTok**—all within a single application. InvestigUser operates transparently for platforms and ensures complete legality.
+**InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. It provides a single platform to gather valuable information about users on the most popular social networks and messaging apps, including **Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, and Snapchat**. All searches are conducted transparently for the platforms and in full compliance with the law: no methods rely on hacked or inaccessible databases. The data is exclusively collected from open sources directly on the platforms.
+
+
 
 ![Capture d’écran 2024-11-15 155542](https://github.com/user-attachments/assets/62112ae1-ab99-4f34-87a6-454f7c62b08d)
 
 
 
 
-With **InvestigUser**, you can effortlessly retrieve data such as **user login/ID, profile photos, number of followers and followings, friends lists, and much more ** with just one click. Now featuring **direct multiplatform username and email searches**, InvestigUser lets you explore and analyze data instantly, without intermediaries, all from within the application. Additionally, **account scans using phone numbers for Telegram and WhatsApp** further expand your investigative capabilities. **InvestigUser** stands out for its ability to extract information quickly and discreetly, offering you a reliable and efficient tool for your online investigations.
+With **InvestigUser**, you can easily retrieve, in just one click, data such as user Login/ID, profile photos, the number of followers and followings, as well as friends lists, directly from the application. This application also stands out for its advanced features, including **direct and instant account searches by username or email address across multiple platforms**. Furthermore, it now enables precise scans using phone numbers, particularly for **Telegram and WhatsApp**, expanding your investigative capabilities. All of this is offered in a fast and discreet "All-In-One" application.
 
 ![Capture d'écran 2024-11-29 184218](https://github.com/user-attachments/assets/e2acc11a-d69b-4833-806a-4a0c1678a478)
 
@@ -16,14 +18,13 @@ With **InvestigUser**, you can effortlessly retrieve data such as **user login/I
 
 
 **Key Features:
-**- Multiplatform Support: Analyze accounts across Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, and more.
-Direct Username, Email, and Phone Number Searches: Perform multiplatform searches instantly and directly, including account scans via phone numbers for Telegram and WhatsApp.
-- Data Retrieval: Access user Login/ID, profile photos, followers, followings, friends lists, and more in seconds.
-- Automated Screenshots: Take automated screenshots of profiles and posts (e.g., on Twitter and Facebook) for documentation and analysis.
-- Total Discretion: Operates independently of APIs, ensuring opaque and undetectable data collection for platforms.
-- Intuitive Interface: Enjoy a smooth, efficient experience with a user-friendly interface.
-- Regular Updates: Stay ahead with frequent updates. Receive prompts to download the latest features and improvements upon app launch.
-- Secure & Reliable: Windows Defender–validated, ensuring no malware, cookies, or malicious scripts. InvestigUser does not store your requests, guaranteeing anonymity and confidentiality.
+**Multiplateforme** : Supporte Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, SnapChat…etc
+**Direct Username, Email, and Phone Number Searches:** Instantly perform multiplatform searches, including phone number scans for Telegram and WhatsApp.
+**Data Retrieval:** Quickly access Login/ID, profile photos, followers, followings, and friends lists.
+**Total Discretion:** Operates without leaving any traces. Primarily scans open-source data, ensuring anonymity and leaving no trace. InvestigUser does not retain any data from completed scans.
+**Intuitive Use:** Simple and easy-to-use user interface for a smooth and efficient experience.
+**Regular updates :** Receive prompts to download updates when launching the application, if available.
+**Reliable Application:** Validated by Windows Defender and scanned with Virus Scan before deployment, this application is guaranteed to be free from malware, cookies, or malicious scripts. It does not store or retain any of your queries, ensuring total anonymity and completely confidential use.
 
 **Download now and discover a new world of information just a click away!
 **
