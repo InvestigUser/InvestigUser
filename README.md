@@ -1,7 +1,7 @@
 **InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. It provides a single platform to gather valuable information about users on the most popular social networks and messaging apps, including Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, and Snapchat. All searches are conducted transparently for the platforms and in full compliance with the law: no methods rely on hacked or inaccessible databases. The data is exclusively collected from open sources directly on the platforms.
 
 
-![Capture-decran-2024-12-12-120149](https://github.com/user-attachments/assets/ed6f511b-6e08-4c4c-b84d-3f6a8c3efb52)
+![Capture d’écran 2024-12-16 130424](https://github.com/user-attachments/assets/5b650eb9-4771-4d25-83a8-f02f606e3f45)
 
  
 With **InvestigUser**, you can easily retrieve, in just one click, data such as user Login/ID, profile photos, the number of followers and followings, as well as friends lists, directly from the application. This application also stands out for its advanced features, including **direct and instant account searches by username or email address across multiple platforms**. Furthermore, it now enables precise scans using **phone numbers**, particularly for **Telegram and WhatsApp**, expanding your investigative capabilities. All of this is offered in a fast and discreet "All-In-One" application.
@@ -14,6 +14,8 @@ With **InvestigUser**, you can easily retrieve, in just one click, data such as 
 ![Capture-decran-2024-11-26-155602-768x777](https://github.com/user-attachments/assets/33946480-3346-421a-9cdd-2ac0f0cf3bcd)
 
 ![Capture-decran-2024-11-26-161628-768x570](https://github.com/user-attachments/assets/93e9c0f7-53b7-4538-9903-d1278daf92a6)
+
+![Capture d’écran 2024-12-16 130253](https://github.com/user-attachments/assets/f20f79eb-ff94-4558-8c22-7a7cae2cb0bd)
 
 
 **Key Features:
