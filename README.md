@@ -1,24 +1,24 @@
+New - InvestigUser is now online !
 
-![cropped_ok](https://github.com/user-attachments/assets/e6946695-7a23-4ae0-9c5f-5a6d891b37cc)
+![0](https://github.com/user-attachments/assets/194f6e7a-d404-48c4-9685-b8dcd8e1d57a)
+![0b](https://github.com/user-attachments/assets/08d266b5-daf2-494c-af06-569272eadbf2)
 
-**InvestigUser** is an innovative, reliable, and powerful Windows application designed for OSINT/SOCMINT investigators and web enthusiasts. It provides a single platform to gather valuable information about users on the most popular social networks and messaging apps, including Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, and Snapchat. All searches are conducted transparently for the platforms and in full compliance with the law: no methods rely on hacked or inaccessible databases. The data is exclusively collected from open sources directly on the platforms.
 
+**InvestigUser** is an innovative, reliable, and powerful application designed for OSINT/SOCMINT investigators and web enthusiasts. It provides a single platform to gather valuable information about users on the most popular social networks and messaging apps, including X.com, WhatsApp, Facebook, Instagram, Telegram, TikTok, and Snapchat. All searches are conducted transparently for the platforms and in full compliance with the law: no methods rely on hacked or inaccessible databases. The data is exclusively collected from open sources directly on the platforms.
 
-![Capture d’écran 2024-12-16 130424](https://github.com/user-attachments/assets/5b650eb9-4771-4d25-83a8-f02f606e3f45)
+![1](https://github.com/user-attachments/assets/79c72370-7c7f-4b5f-912f-1ae0ba1f75d0)
+
 
  
 With **InvestigUser**, you can easily retrieve, in just one click, data such as user Login/ID, profile photos, the number of followers and followings, as well as friends lists, directly from the application. This application also stands out for its advanced features, including **direct and instant account searches by username or email address across multiple platforms**. Furthermore, it now enables precise scans using **phone numbers**, particularly for **Telegram and WhatsApp**, expanding your investigative capabilities. All of this is offered in a fast and discreet "All-In-One" application.
 
-![tg-768x335](https://github.com/user-attachments/assets/4c45c546-b0a0-4d8a-a25c-618467557b57)
+![1](https://github.com/user-attachments/assets/0c6abff0-6adb-44d7-a282-5511c0306da8)
 
+![2ip](https://github.com/user-attachments/assets/e0b4c151-fade-4eea-b65d-d820e8665612)
 
-![Capture-decran-2024-12-12-120121-1024x475](https://github.com/user-attachments/assets/31368aba-6d05-4bd5-82c3-3a66f79300c4)
+![3username](https://github.com/user-attachments/assets/3b3dd03a-98f2-4d59-9c09-3488ade9717c)
 
-![Capture-decran-2024-11-26-155602-768x777](https://github.com/user-attachments/assets/33946480-3346-421a-9cdd-2ac0f0cf3bcd)
-
-![Capture-decran-2024-11-26-161628-768x570](https://github.com/user-attachments/assets/93e9c0f7-53b7-4538-9903-d1278daf92a6)
-
-![Capture d’écran 2024-12-16 130253](https://github.com/user-attachments/assets/f20f79eb-ff94-4558-8c22-7a7cae2cb0bd)
+![4x](https://github.com/user-attachments/assets/bf644c33-a9d6-43c4-ac00-695b7dd089d0)
 
 
 **Key Features:
