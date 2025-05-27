@@ -1,7 +1,8 @@
-New - InvestigUser is now online !
+New - InvestigUser is now online, free to use ! Support us : https://ko-fi.com/investiguser 
 
-![0](https://github.com/user-attachments/assets/194f6e7a-d404-48c4-9685-b8dcd8e1d57a)
-![0b](https://github.com/user-attachments/assets/08d266b5-daf2-494c-af06-569272eadbf2)
+![0](https://github.com/user-attachments/assets/5a425acf-e7af-4f80-9e07-8f3691ce2abc)
+![0b](https://github.com/user-attachments/assets/0953a042-400a-49e3-9973-8e660a610fc8)
+
 
 
 **InvestigUser** is an innovative, reliable, and powerful application designed for OSINT/SOCMINT investigators and web enthusiasts. It provides a single platform to gather valuable information about users on the most popular social networks and messaging apps, including X.com, WhatsApp, Facebook, Instagram, Telegram, TikTok, and Snapchat. All searches are conducted transparently for the platforms and in full compliance with the law: no methods rely on hacked or inaccessible databases. The data is exclusively collected from open sources directly on the platforms.
