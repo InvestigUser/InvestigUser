@@ -1,4 +1,6 @@
-New - InvestigUser is now online, free to use ! Support us : https://ko-fi.com/investiguser 
+New - InvestigUser is now online, free to use !  https://investiguser.com/
+
+Support us : https://ko-fi.com/investiguser 
 
 ![0](https://github.com/user-attachments/assets/5a425acf-e7af-4f80-9e07-8f3691ce2abc)
 ![0b](https://github.com/user-attachments/assets/0953a042-400a-49e3-9973-8e660a610fc8)
