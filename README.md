@@ -13,7 +13,6 @@ New - InvestigUser is now online, free to use ! Support us : https://ko-fi.com/i
  
 With **InvestigUser**, you can easily retrieve, in just one click, data such as user Login/ID, profile photos, the number of followers and followings, as well as friends lists, directly from the application. This application also stands out for its advanced features, including **direct and instant account searches by username or email address across multiple platforms**. Furthermore, it now enables precise scans using **phone numbers**, particularly for **Telegram and WhatsApp**, expanding your investigative capabilities. All of this is offered in a fast and discreet "All-In-One" application.
 
-![1](https://github.com/user-attachments/assets/0c6abff0-6adb-44d7-a282-5511c0306da8)
 
 ![2ip](https://github.com/user-attachments/assets/e0b4c151-fade-4eea-b65d-d820e8665612)
 
@@ -24,12 +23,13 @@ With **InvestigUser**, you can easily retrieve, in just one click, data such as 
 
 **Key Features:
 **Multiplateforme :** Supporte Twitter, WhatsApp, Facebook, Instagram, Telegram, TikTok, SnapChat…etc
-**Direct Username, Email, and Phone Number Searches:** Instantly perform multiplatform searches, including phone number scans for Telegram and WhatsApp.
-**Data Retrieval:** Quickly access Login/ID, profile photos, followers, followings, and friends lists.
+**Direct Username, Email, and Phone Number Searches:** Instantly perform multiplatform searches with email / phone number / username, including phone number scans for Telegram and WhatsApp.
+**Data Retrieval:** Quickly access Login/ID, profile photos, followers, followings, friends lists, Google account, IPs details, Multi-web searches with name / compagny ...etc.
 **Total Discretion:** Operates without leaving any traces. Primarily scans open-source data, ensuring anonymity and leaving no trace. InvestigUser does not retain any data from completed scans.
 **Intuitive Use:** Simple and easy-to-use user interface for a smooth and efficient experience.
 **Regular updates :** Receive prompts to download updates when launching the application, if available.
 **Reliable Application:** Validated by Windows Defender and scanned with Virus Scan before deployment, this application is guaranteed to be free from malware, cookies, or malicious scripts. It does not store or retain any of your queries, ensuring total anonymity and completely confidential use.
+**and much more !!! Many updates !:**
 
 **InvestigUser** is the essential tool for anyone who wants to deepen their research on social networks in a professional and discreet way.
 
